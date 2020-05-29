@@ -1,0 +1,219 @@
+range tempo 40-200: beat:: 1500 -600 - 300 ms
+
+<<Pengujian 1.4
+#Do=G #B=4/4 #MM=150. 
+<N [4 (5 6)] [1' 7] 1 |} >N
+<L Le-ga-to >L
+
+<<Pengujian 3
+#Do=F #B=3/4 #MM=100.
+<N (t 11/2) (t 2/34) (t 4/55/)| >N
+<L Do-di-re-ri-mi-fa-fis-sol-sel >L
+<N (t 66\5 ) (t 5\43) (t 3\22\)| >N
+<L Se-ka-rang na-da tu-run ste-ngah >L
+<N (t 1,2,3,) (t 123) (t 1'2'3')|} >N
+<L Ke ren-dah ke nor-mal ke ting-gi >L
+
+<<Uji 3.5 [gatau jadi ato engga]
+#Do=Es #B=3/4 #MM=100.
+#Do=Es #B=3/4 #MM=100.
+<N 1 (11) ((11 11)) (((11 11 11 11))) | >N
+<L Nol sa-tu du-a ka-li la-lu ti-ga ka-li ba-gi >L
+<N 1 (t 111) (t (t 111) (t 111) (t 111)) | >N
+<L Nol sa-tu trip dan i-ni a-dalah du-a trip >L
+
+<<Pengujian 2
+#Do=D #B=3/4 #MM=150.
+<N 1 (12 (21 32)) | >N
+<L Pe^-ca-han na-da ju-ga >L
+<N (t 123) (t (22)(35)5) 1' |} >N
+<L tri-na-da di-u-ji di si-ni >L
+
+<<Pengujian 1
+#Do=As #B=2/4 #MM=100.
+
+<N | 1 . | 3 . | 5 . | 1' . |} >N
+<L  Do  mi  sol  do >L
+
+=============================================================================================
+
+<<Pergi Untuk Kembali [OK tapi aneh]
+
+#Do = C
+#B  = 4/4
+#MM = 71.
+
+<N (5(55)(.5.5)) . (.(34)) | (55 6[5 .6) .] | (5(44 .3.3 .2.1 .2.3)) | ... >N
+<L Wa-lau-pun la-ngit pa-da ma-lam i-tu be^r-man-di-kan ca-ha-ya bin-tang >L
+
+<N (.(.3)) | (3 (21/ .2.4)) . (. (07,)) | (2(17, .1.3)) .. | (3(26 .4/.2)) . ((23 4/5)) | . (t [1'76) 5] . | >N
+<L Bu-lan pun be^r-si-nar be^-ta-pa in-dah-nya na-mun me^-nam-bah ke^-pe^-di-han oo >L
+
+<N (5(55)(.5.5)) . (.(34)) | (5 (51' .6.5)) . . | (5(41' .6.5 .4.5 .4.3)) | ... >N
+<L Ku-a-kan pe^r-gi me^-ning-gal-kan di-ri-mu me^-nyu-su-ri li-ku hi-dup-ku >L
+
+<N (.(.3)) | (3 (21/ .2.4)) . (53) | (2(17, .1.3)) . (.(.3)) | (3(42 .1.1)) (. (7,6, .7,.1)) | .. >N
+<L Ja-ngan-lah kau bim-bang dan ja-ngan-lah kau ra-gu be^-ri-kan-lah se^-nyu-man pa-da-ku >L
+
+<N 1'2' | (3'(51' .3'.2' .4'..) 3'2') | (1'(36 .1'.7\)) . (3'(2'1')) | (.6) . ((.6.7 .1'.2')) | ..>N
+<L Se^-la-mat ting-gal ka-sih sam-pai ki-ta jum-pa la-gi a-ku pe^r-gi ta-kan la-ma >L
+
+<N 1'2' | (3'(51' .3'.2' .4'..) 3'2') | (1'(36 .1'.7)) . (3'(2'1')) | (.(67)) ((.1'.2')) .((1'7) (. 1')) |} >N
+<L Ha-nya se^-ke^-jap sa-ja ku-a-kan ke^m-ba-li la-gi a-sal-kan e^ng-kau te^-tap me^-nan-ti >L
+
+<<Himne Gadjah Mada [OK]
+
+#Do = A
+#B  = 3/4
+#MM = 80.
+
+<N (51') | 3' 2' (1'7) | 7 6 (1'6) | 5 5 (64) | 3 . (57\) | >N
+<L Bak-ti ka-mi ma-ha-si-swa Ga-djah Ma-da se-mu-a ku-be^r->L
+
+<N 7\ 6 (76)| 1' 5 (t [51']3') | 3' 1' 3' | 2'. (3'2') | >N
+<L -jan-ji me^-me^-nu-hi pang-gi-lan bang-sa-ku di da- >L
+
+<N 1' (.1' 77) | 6 4' (3'2') | (t 1'2'1') 7 1' | 2'. (3'2') | >N
+<L -lam Pan-ca-si-la-mu ji-wa se^-lu-ruh nu-sa-ku ku-jun >L
+
+<N 1' (.1' 77) | (66) 4' (3'2') | (t 1'[2'1']) (71') [3' | 2'] 1' 0 |} >N
+<L -jung ke^-bu-da-ya-an mu ke^-ja-ya-an In-do-ne-sia>L
+
+<<Bangun Pemudi Pemuda [OK]
+
+#Do = A
+#B  = 4/4
+#MM = 120.
+
+<N 5 (3 (.4)) 5 (1' (.2')) | 3'. 1'. | 1' (.7 [2'1'] [7 6]) | 5 .. 0|>N
+<L Ba-ngun pe^-mu-di pe^-mu-da In-do-ne-si-a >L
+
+<N 5 (3 (.4)) 5 (1' (.2')) | 3'. 1'. | 2' (.2') 3' 4/' | 5'.. 0|>N
+<L Ta-ngan ba-ju-mu sing-sing kan un-tuk ne-ga-ra >L
+
+<N 2' (2' (.2')) 3' 3' | [4' (.3')] 4'. | 3' (3' (. 2')) 1' 3' | 2'.. 0 |>N
+<L Ma-sa yang a-kan da-tang ke^-wa-ji-ban mu lah >L
+
+<N 5 (1' (.2')) 3' 5' | 5'. 4' (3' (.2')) | 1'. 2'. | 3'.. 0|>N
+<L Me^n-ja-di tang-gu-ngan-mu te^r-ha-dap nu-sa >L
+
+<N 5 (1' (.2')) 3' 5' | 5'. 4' (3' (.2')) | 3'. 2'. | 1'.. 0|} >N
+<L Me^n-ja-di tang-gu-ngan-mu te^r-ha-dap nu-sa >L
+
+<<Potong Bebek Angsa [OK]
+
+#Do = D
+#B  = 4/4
+#MM = 100.
+
+<N (5,5, 11) 11 | (7,1 27,) 1 1 | >N
+<L Po-tong be-bek ang-sa ma-sak di-ku-a-li >L
+
+<N (5,5, 12) 3 3 | (23 42) 3 3 | >N
+<L No-na min-ta dan-sa dan-sa e^m-pat ka-li >L
+
+<N 4 (64) 2 4 | 3 (53) 1 3 | (23 41 7,5, 6,7,) | 1 3 5 . | >N
+<L  So-rong ke^ ki-ri so-rong ke^ ka-nan la-la-la la-la la-la-la-la la-la>L
+
+<N 4 (64) 2 4 | 3 (53) 1 3 | (23 41 7,5, 6,7,) | 1 3 1 . |} >N
+<L  So-rong ke^ ki-ri so-rong ke^ ka-nan la-la-la la-la la-la-la-la la-la>L
+
+<<Burung Hantu [OK]
+#Do=C #MM=100. #B=4/4
+
+<N | 0 5, 1 (. 7,)| 1 3 1 . | 5, 3 2 (. 1)| 2 3 1 .| >N
+<L Ma-ta-ha-ri te^r-be^-nam ha-ri mu-lai ma-lam >L
+
+<N 0 5, 1 (. 7,)| 1 3 1 . | 5, 3 2 (. 1)| 2 3 1 .| >N
+<L Te^r-de^-ngar bu-rung han-tu su-a-ra-nya me^r-du >L
+
+<N 0 5 3 . | 0 5 3 . | 0 5 4 (. 3)| 4 5 3 .| >N
+<L Ku-ku ku-ku ku-ku-ku-ku-ku-ku >L
+
+<N 0 5 3 . | 0 5 3 . | 0 5 4 (. 3)| 4 2 1 .|} >N
+<L Ku-ku ku-ku ku-ku-ku-ku-ku-ku >L
+
+<<Indonesia Pusaka [OK]
+
+#Do = F
+#B  = 4/4
+#MM = 108.
+
+<N (5,1) | 3 (.1)(5,1)(36) | 5. (30)(11) | 1 (.7,)(17,)(13) | >N
+<L In-do-ne-sia ta-nah a-ir be-ta pu-sa-ka a-ba-di nan ja-ya >L
+
+<N 2. 0 (5,1) | 3 (.1)(5,1)(7,7,\) | 6,.(40)(27,) | 1 (.5)(4/5)(47,)| >N
+<L In-do-ne-sia se^-jak du-lu ka-la sla-lu di pu-ja pu-ja bang-sa >L
+
+<N 1. 0 (55) | 5 (.6)(54)(27,) | 5, . 0 (33)| >N
+<L Di sa-na te^m-pat la-hir be-ta >L
+
+<N 3 (.4)(32)(17,) | 6, . 0 (6,7,)| >N
+<L Di-bu-ai di-be^-sar-kan bun-da >L
+
+<N 1 (.7,)(12)(34) | 6 . (50)(5,1)| >N
+<L Te^m-pat be^r-lin-dung di-ha-ri tu-a >L
+
+<N 3 (.5)(4/5)(47,) | 1 . 0 |} >N
+<L Sam-pai a-khir me^-nu-tup ma-ta >L
+
+<<Bengawan Solo [OK tapi aneh]
+
+#Do = C
+#B  = 4/4
+#MM = 60.
+
+<N | 0 (55) 6 (.3) | 5 . (.1') (2'3') | 2' (.1') [3'. |>N
+<L Be^-nga-wan So-lo ri-wa-yat-mu i-ni >L
+
+<N 3'] (53) 5 (.3') | 2' (.7) 5 (.6) | 7 (3'5) 4 (.5) | 3 ... |>N
+<L Se^-da-ri du-lu ja-di per-ha-ti-an in-sa-ni >L
+
+<N 0 (55) 6 (.3) | 5 . (.1') (2'3') | 2' (.1') [3'. |>N
+<L Mu-sim ke^-ma-rau tak sbra-pa a-ir-mu >L
+
+<N 3'] (53) 5 (.3') | 2' (.7) 5 (.6) | 7 (3'5) 4 (.5) | 1' ... |>N
+<L Di mu-sim hu-jan a-ir me^-nga-lir sam-pai ja-uh >L
+
+<N (01' 1'1' 1'2' 1'6) | [1' (. 7]) [6 . | (6]1' 71' 2'1' 76) | [5 ... |>N
+<L Ma-ta a-ir-mu da-ri So-lo te^r-ku-rung Gu-nung se^-ri-bu>L
+
+<N (5] 2' 2'2' 2'3' 2'1') | [2' (. 6]) [6 . | (6] 6 71') 3' (.1')| 2'... |>N
+<L a-ir me^-nga-lir sam-pai ja-uh a-khir-nya ke^ la-ut>L
+
+<N 0 (55) 6 (.3) | 5 . (.1') (2'3') | 2' (.1') [3'. |>N
+<L I-tu pe^-ra-hu ri-wa-yat-nya ki-ni >L
+
+<N 3'] (53) 5 (.3') | 2' (.7) 5 (.6) | 7 (3'5) 4 (.3) | 1' ... |}>N
+<L Ka-um pe^-da-gang sla-lu na-ik i-tu pe^-ra-hu >L
+
+===================================Trash==============================================
+
+
+<<Sabda Alam [aneh]
+
+#Do = D
+#B  = 4/4
+#MM = 120.
+
+<N 0 0 (4/ 6) 4/ | 3 . (2 4/) 2 | 1/ . 7, (2 7,) | 5, 0 0 0 |>N
+<L Di-cip-ta-kan A-lam pri-a dan wa-ni-ta >L
+
+<N >N
+<L Du-a mahk-luk da-lam a-su-han de-wa-ta>L
+
+<N >N
+<L Di-takdir-kan bah-wa pri-a ber-ku-a-sa>L
+
+<N >N
+<L a-da pun wa-ni-ta le-mah lem-but man-ja>L
+
+
+<N >N
+<L >L
+
+<N >N
+<L >L
+
+<N >N
+<L >L
